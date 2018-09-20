@@ -1,0 +1,32 @@
+_repo: With-The-Flag-In-The-Channel-or-The-Adventures-of-Captain-Gustavus-Conyngham_52816
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Chapman, Carlton T.
+    gutenberg_agent_id: '38097'
+    url: http://www.gutenberg.org/2009/agents/38097
+creator:
+  author:
+    agent_name: Barnes, James
+    birthdate: 1866
+    deathdate: 1936
+    gutenberg_agent_id: '38095'
+    url: http://www.gutenberg.org/2009/agents/38095
+description: ''
+gutenberg_issued: '2016-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52816'
+  lccn: 02022856
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- GITenberg
+title: 'With The Flag In The Channel
+
+  or, The Adventures of Captain Gustavus Conyngham'
+url: http://www.gutenberg.org/ebooks/52816
